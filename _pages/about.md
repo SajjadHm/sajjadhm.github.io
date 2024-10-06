@@ -7,10 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-
-
-## About Me
-
 I am currently a BSc student in the Electrical Engineering Department at Sharif University of Technology, where I am deeply involved in cutting-edge research in the fields of Computer Vision and Deep Learning. I have the privilege of working as a Research Assistant at two renowned labs:
 
 - **Deep Learning Lab**, EE Department, Sharif University of Technology
