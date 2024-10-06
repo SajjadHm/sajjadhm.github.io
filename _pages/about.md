@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# Hi there! I'm Sajjad 👋
+
 
 ## About Me
 
